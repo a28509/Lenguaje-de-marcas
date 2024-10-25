@@ -1,0 +1,11 @@
+#container p {
+    color:aliceblue;
+}
+#container {
+    background-color:brown;
+}
+body{
+    background-image: url('../img/HarryPotter.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
