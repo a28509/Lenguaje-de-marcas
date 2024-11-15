@@ -1,0 +1,78 @@
+/* Reseteo básico */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    height: 100%;
+}
+
+/* Contenedor principal */
+.container {
+    display: flex;
+    height: 100%;
+}
+
+/* Estilos para la cabecera */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+header .logo {
+    width: 100px;
+    height: auto;
+}
+
+/* Menú lateral izquierdo */
+.sidebar {
+    background-color: #444;
+    color: white;
+    width: 200px;
+    padding-top: 20px;
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li {
+    padding: 10px 20px;
+}
+
+.sidebar ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
+
+.sidebar ul li a:hover {
+    background-color: #555;
+}
+
+/* Contenido principal */
+main {
+    margin-left: 200px;
+    padding: 20px;
+    flex-grow: 1;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
