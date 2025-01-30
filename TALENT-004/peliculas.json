@@ -1,0 +1,26 @@
+[
+    { "titulo": "Iron Man", "genero": "Acción", "año": 2008, "imagen": "https://pics.filmaffinity.com/Iron_Man-108960873-large.jpg" },
+    { "titulo": "The Incredible Hulk", "genero": "Ciencia Ficción", "año": 2008, "imagen": "https://pics.filmaffinity.com/the_incredible_hulk-175130941-msmall.jpg" },
+    { "titulo": "Iron Man 2", "genero": "Ciencia Ficción", "año": 2010, "imagen": "https://pics.filmaffinity.com/iron_man_2-466103197-mmed.jpg" },
+    { "titulo": "Thor", "genero": "Ciencia Ficción", "año": 2011, "imagen": "https://pics.filmaffinity.com/thor-223512549-mmed.jpg" },
+    { "titulo": "Captain America: The First Avenger", "genero": "Romance", "año": 2011, "imagen": "https://pics.filmaffinity.com/captain_america_the_first_avenger-163477639-msmall.jpg" },
+    { "titulo": "The Avengers", "genero": "Romance", "año": 2012, "imagen": "https://pics.filmaffinity.com/the_avengers-439499921-msmall.jpg" },
+    { "titulo": "Iron Man 3", "genero": "Drama", "año": 2013, "imagen": "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-mmed.jpg" },
+    { "titulo": "Thor: The Dark World", "genero": "Drama", "año": 2013, "imagen": "https://pics.filmaffinity.com/thor_the_dark_world-763570829-mmed.jpg" },
+    { "titulo": "Captain America: The Winter Soldier", "genero": "Acción", "año": 2014, "imagen": "https://pics.filmaffinity.com/captain_america_the_winter_soldier-333149071-mmed.jpg" },
+    { "titulo": "Guardians of the Galaxy", "genero": "Drama", "año": 2014, "imagen": "https://pics.filmaffinity.com/guardians_of_the_galaxy-595487268-mmed.jpg" },
+    { "titulo": "Avengers: Age of Ultron", "genero": "Drama", "año": 2015, "imagen": "https://pics.filmaffinity.com/avengers_age_of_ultron_the_avengers_2-182285335-mmed.jpg" },
+    { "titulo": "Ant-Man", "genero": "Drama", "año": 2015, "imagen": "https://pics.filmaffinity.com/ant_man-627211491-mmed.jpg" },
+    { "titulo": "Captain America: Civil War", "genero": "Comedia", "año": 2016, "imagen": "https://pics.filmaffinity.com/captain_america_civil_war_aka_captain_america_3-298011137-mmed.jpg" },
+    { "titulo": "Doctor Strange", "genero": "Comedia", "año": 2016, "imagen": "https://pics.filmaffinity.com/doctor_strange-883697036-msmall.jpg" },
+    { "titulo": "Guardians of the Galaxy Vol. 2", "genero": "Comedia", "año": 2017, "imagen": "https://pics.filmaffinity.com/guardians_of_the_galaxy_vol_2-755407784-mmed.jpg" },
+    { "titulo": "Spider-Man: Homecoming", "genero": "Acción", "año": 2017, "imagen": "https://pics.filmaffinity.com/spider_man_homecoming-336093112-msmall.jpg" },
+    { "titulo": "Thor: Ragnarok", "genero": "Acción", "año": 2017, "imagen": "https://pics.filmaffinity.com/thor_ragnarok-115636540-mmed.jpg" },
+    { "titulo": "Black Panther", "genero": "Animación", "año": 2018, "imagen": "https://pics.filmaffinity.com/black_panther_wakanda_forever-869269163-mmed.jpg" },
+    { "titulo": "Avengers: Infinity War", "genero": "Animación", "año": 2018, "imagen": "https://pics.filmaffinity.com/avengers_infinity_war-181539353-mmed.jpg" },
+    { "titulo": "Ant-Man and The Wasp", "genero": "Animación", "año": 2018, "imagen": "https://pics.filmaffinity.com/ant_man_and_the_wasp-808025952-msmall.jpg" },
+    { "titulo": "Captain Marvel", "genero": "Acción", "año": 2019, "imagen": "https://pics.filmaffinity.com/captain_marvel-457800899-msmall.jpg" }
+]
+
+
+

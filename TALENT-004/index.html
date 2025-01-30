@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CARTELERA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>PELÍCULAS <img src="img/icons8-video-50 (1).png" alt="video"></h1>
+
+    <div class="filters">
+        <label for="genero-select">Filtrar por Género:</label>
+        <select id="genero-select">
+            <option value="">--Seleccionar--</option>
+            <option value="Animación">Animación</option>
+            <option value="Ciencia Ficción">Ciencia Ficción</option>
+            <option value="Romance">Romance</option>
+            <option value="Acción">Acción</option>
+            <option value="Drama">Drama</option>
+            <option value="Comedia">Comedia</option>
+        </select>
+
+        <button id="ordenar-ano">Ordenar por Año</button>
+        <select id="ordenar-select" style="display: none;">
+            <option value="ascendente">Ascendente</option>
+            <option value="descendente">Descendente</option>
+        </select>
+
+
+        <input type="text" id="buscar-titulo" placeholder="Buscar por título">
+        <button id="buscar-btn">Buscar</button>
+    </div>
+
+    <div id="mensaje" class="mensaje"></div>
+
+    <ul id="peliculas-lista"></ul>
+
+    <div id="peliculas-container">
+        <ul id="peliculas-lista"></ul>
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
